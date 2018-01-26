@@ -1,0 +1,8 @@
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\bin\WordSiteConverter.dll.config
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\bin\WordSiteConverter.dll
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\bin\WordSiteConverter.pdb
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\bin\WordRemoteConverter.exe
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\bin\WordRemoteConverter.pdb
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\obj\Debug\WordSiteConverter.csprojResolveAssemblyReference.cache
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\obj\Debug\WordSiteConverter.dll
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordSiteConverter\obj\Debug\WordSiteConverter.pdb

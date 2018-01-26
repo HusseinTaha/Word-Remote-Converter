@@ -1,0 +1,9 @@
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\bin\Debug\WordConverter.exe.config
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordConverter.csprojResolveAssemblyReference.cache
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordConverter.Form1.resources
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordConverter.Properties.Resources.resources
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordConverter.csproj.GenerateResource.Cache
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\bin\Debug\WordConverter.exe
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\bin\Debug\WordConverter.pdb
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordConverter.exe
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordConverter.pdb

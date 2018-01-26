@@ -1,0 +1,17 @@
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\bin\Debug\WordRemoteConverter.exe.config
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\bin\Debug\WordRemoteConverter.exe
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\bin\Debug\WordRemoteConverter.pdb
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordRemoteConverter.Form1.resources
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordRemoteConverter.Properties.Resources.resources
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordRemoteConverter.csproj.GenerateResource.Cache
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordRemoteConverter.exe
+E:\Development\VisualStudioProjects\WordConverterSol\WordConverter\obj\Debug\WordRemoteConverter.pdb
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\bin\Debug\WordRemoteConverter.exe.config
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\obj\Debug\WordRemoteConverter.exe
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\obj\Debug\WordRemoteConverter.pdb
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\bin\Debug\WordRemoteConverter.exe
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\bin\Debug\WordRemoteConverter.pdb
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\obj\Debug\WordRemoteConverter.csprojResolveAssemblyReference.cache
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\obj\Debug\WordRemoteConverter.Form1.resources
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\obj\Debug\WordRemoteConverter.Properties.Resources.resources
+E:\Development\VisualStudioProjects\WordRemoteConverterSol\WordRemoteConverter\obj\Debug\WordRemoteConverter.csproj.GenerateResource.Cache
